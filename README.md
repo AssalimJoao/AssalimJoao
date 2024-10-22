@@ -1,16 +1,16 @@
-## Hi there 👋
+# 🖥️ Hey dev, I'm João Assalim 🖥️
 
-<!--
-**AssalimJoao/AssalimJoao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Connect with me:
+- [Instagram](https://instagram.com/joaoassalim_)
+- [LinkedIn](https://www.linkedin.com/in/assalimjoao/)
+- [Kaggle](https://www.kaggle.com/joaoassalim)
+- [Beecrowd](https://www.beecrowd.com.br/judge/pt/profile/635834)
+- [LeetCode](https://leetcode.com/JoaoAssalim/)
 
-Here are some ideas to get you started:
+## GitHub Stats
+![JoaoAssalim's Stats](https://github-readme-stats.vercel.app/api?username=AssalimJoao&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![JoaoAssalim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AssalimJoao&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=DA22FF&height=90&section=footer"/>
